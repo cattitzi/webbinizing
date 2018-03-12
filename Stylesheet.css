@@ -1,0 +1,33 @@
+
+.container{
+    width: 700px;
+  
+    margin: 100px auto;
+  
+    display: flex;
+  
+    flex-direction: row;
+  
+    background-color: pink;
+  
+    padding: 10px;
+
+}
+
+.image{
+    
+padding: 10px; 
+max-width: 200px;
+
+max-height: 300px;
+
+}
+
+.text{
+    
+   
+margin:  120px;
+
+flex-grow: 10;
+
+}
